@@ -5,21 +5,18 @@
  
  Here is some screenshots of application: 
  
-
-<table>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/49745411/148394896-8cc5b961-b22e-4850-9eb6-c2eba562f629.png"  alt="1" width = 400px height = 200px></td>
-
-    <td> <img src="https://user-images.githubusercontent.com/49745411/148394922-4a92c106-df8d-46c3-b743-df9c4a0c72d2.png" alt="2" width = 400px height = 200px></td>
-   </tr> 
-   <tr>
-      <td> <img src="https://user-images.githubusercontent.com/49745411/148394930-26d00a0d-b177-4a13-ae0f-162aba275505.png" alt="3" width = 400px height = 200px></td>
-
-      <td> <img src="https://user-images.githubusercontent.com/49745411/148394873-0b6cfa65-6876-482e-aaed-da5f39b0dd91.png" alt="4" width = 400px height = 200px>
+<table style="padding:10px">
+ <tr>
+  <td>
+   <img src="./Scshot/requesting_cab.png"  alt="1" width = 279px height = 496px >
+  </td>  
+   <td><img src="./Scshot/cab_booked.png" align="right" alt="2" width = 279px height = 496px>
   </td>
-  </tr>
-</table>
- 
+   <td><img src="./Scshot/cab_arrived.png" alt="3" width = 288px height = 512px>
+  </td>
+  </td>
+ </tr>
+
 For more information visit the link below
 
 https://docs.google.com/presentation/d/1J6gaVPx3T49aO0dtraq6NpVcY1JIU9A49DXTwJGfX0w/edit?usp=sharing
