@@ -8,15 +8,13 @@
 <table style="padding:10px">
  <tr>
   <td>
-   <img src="https://user-images.githubusercontent.com/49745411/148401874-152406b1-71ac-4a84-93cf-66a1be5a2857.png"  alt="1" width = 279px height = 496px >
+   <img src="https://user-images.githubusercontent.com/49745411/148401874-152406b1-71ac-4a84-93cf-66a1be5a2857.png"  alt="1" width = 800px height = 300px >
   </td>  
-   <td><img src="https://user-images.githubusercontent.com/49745411/148401883-fd203db6-ceb0-46a9-b5bc-9a47c2e35668.png" align="right" alt="2" width = 279px height = 496px>
-  </td>
-   <td><img src="https://user-images.githubusercontent.com/49745411/148401885-ea778217-426f-4a6e-a45b-d77bcf54c513.png" alt="3" width = 288px height = 512px>
-  </td>
+   <td><img src="https://user-images.githubusercontent.com/49745411/148401883-fd203db6-ceb0-46a9-b5bc-9a47c2e35668.png" align="right" alt="2" width = 800px height = 300px>
   </td>
  </tr>
+</table>
 
-For more information visit the link below
+# For more information visit the link below
 
 https://docs.google.com/presentation/d/1J6gaVPx3T49aO0dtraq6NpVcY1JIU9A49DXTwJGfX0w/edit?usp=sharing
